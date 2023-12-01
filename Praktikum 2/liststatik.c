@@ -164,6 +164,7 @@ void extremeValues(ListStatik l, ElType *max, ElType *min) {
 		}
 		i++;
 	}
+
 }
 
 void insertFirst(ListStatik *l, ElType val) {
